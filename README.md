@@ -25,7 +25,7 @@ An SSH jump server is a regular Linux server, accessible from the Internet, whic
 6. Configure a Post-build job to save all files.
 7. Test setup by making some change in README.MD file in master branch and make sure that builds starts automatically and Jenkins saves 
     the files (build artifacts) in following folder
-  ![Consol](https://github.com/Hatem-sudo/Project-5-Ansible-Automate-Project-/assets/113099054/8e2b0738-4df8-47a9-95d9-4a10f2f85854)
+ ![0](https://github.com/Hatem-sudo/Project-5-Ansible-Automate-Project-/assets/113099054/1d837d48-6bcf-4122-874b-ec75f486cba8)
      
 #### Step 2 – Prepare your development environment using Visual Studio Code
 
