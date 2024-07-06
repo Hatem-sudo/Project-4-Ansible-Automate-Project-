@@ -18,14 +18,14 @@ An SSH jump server is a regular Linux server, accessible from the Internet, whic
 2. Create a new repository .
 3. Instal **Ansible** in Jenkin-Ansible server
 4.  Configure Jenkins build job to save repository content every time you change it.
-  - Configure Webhook in GitHub and set webhook to trigger ansible build.
+5. Configure Webhook in GitHub and set webhook to trigger ansible build.
   ![1](https://github.com/Hatem-sudo/Project-5-Ansible-Automate-Project-/assets/113099054/bba902c8-7b9f-477d-a5e0-f011910c6bc6)
 
   
-  - Configure a Post-build job to save all files. 
-  - Test setup by making some change in README.MD file in master branch and make sure that builds starts automatically and Jenkins saves 
+6. Configure a Post-build job to save all files.
+7. Test setup by making some change in README.MD file in master branch and make sure that builds starts automatically and Jenkins saves 
     the files (build artifacts) in following folder
-  ![pix2](https://user-images.githubusercontent.com/74002629/185372377-a6e7429c-e066-40f6-a098-961d3681b14f.PNG)
+  ![Consol](https://github.com/Hatem-sudo/Project-5-Ansible-Automate-Project-/assets/113099054/8e2b0738-4df8-47a9-95d9-4a10f2f85854)
      
 #### Step 2 – Prepare your development environment using Visual Studio Code
 
@@ -73,7 +73,7 @@ Now we give Ansible the instructions on what you needs to be performed on all se
 
 5. Once your code changes appear in master branch – Jenkins will do its job and save all the files.
 
-![pix17](https://user-images.githubusercontent.com/74002629/185374194-509b7ab2-0007-46ac-8e78-836a249ec73c.PNG)
+![0](https://github.com/Hatem-sudo/Project-5-Ansible-Automate-Project-/assets/113099054/d69d3381-cf19-4d8d-a914-de3e5b3a2b1d)
 
 #### Step 7 – Run Ansible test
 
