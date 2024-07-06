@@ -1,4 +1,4 @@
-# Project-5-Ansible-Automate-Project-
+# Project-5-Ansible-Automate-Project
 ## ANSIBLE CONFIGURATION MANAGEMENT
 
 ![Capture1](https://user-images.githubusercontent.com/74002629/185382955-28d67f00-8b19-4caa-8dd2-048cea6c0b74.PNG)
